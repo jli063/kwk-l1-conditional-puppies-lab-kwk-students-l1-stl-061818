@@ -15,7 +15,7 @@ def less_puppies(number_puppies)
   if number_puppies<3
     puts "Good job, Rachel!"
   elsif number_puppies==3
-    puts ""
+    puts "Slow down! No more puppies."
   elsif number_puppies>3
     puts "No more puppies!"
   end
