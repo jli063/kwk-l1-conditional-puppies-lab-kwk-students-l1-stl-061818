@@ -28,7 +28,7 @@ def some_puppies(number_puppies, maximum_puppy_allowance)
   if number_puppies< maximum_puppy_allowance % 2
     puts "Well done, Rachel!"
   elsif number_puppies > maximum_puppy_allowance
-    puts "No more puppies!"
+    puts "Get back to your animal goals!"
   end
 end
 
